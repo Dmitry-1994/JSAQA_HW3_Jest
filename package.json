@@ -15,10 +15,10 @@
     "author": "Dmitry Tarasov",
     "license": "ISC",
     "devDependencies": {
-        "jest": "^27.3.1",
         "@eslint/js": "^9.24.0",
         "eslint": "^9.24.0",
         "eslint-config-prettier": "^10.1.2",
+        "jest": "^27.5.1",
         "prettier": "^3.5.3"
     }
 }
