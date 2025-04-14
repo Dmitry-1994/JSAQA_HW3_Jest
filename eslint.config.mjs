@@ -22,8 +22,8 @@ export default defineConfig([
 			"no-trailing-spaces": "error", // не должно быть пробелов в конце строки
 			"no-tabs": "error", // символы табуляции в коде запрещена везде
 			"comma-dangle": ["error", { // запятая после последнего элемента массива или объекта
-				"arrays": "always-multiline",
-				"objects": "always-multiline",
+				"arrays": "never",
+				"objects": "never",
 				"imports": "never",
 				"exports": "never",
 				"functions": "never"
